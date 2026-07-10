@@ -1,0 +1,22 @@
+{
+  "short_name": "WH3 Pickle",
+  "name": "WH3 Pickleball Social Club",
+  "icons": [
+    {
+      "src": "assets/wh3pickle/logo.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/wh3pickle/logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0B1F3A",
+  "background_color": "#F7F9FC"
+}
